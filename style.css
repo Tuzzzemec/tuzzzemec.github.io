@@ -1,0 +1,30 @@
+div {
+    width: 500px;
+    height: 500px;
+  
+    background: #22793d;
+  }
+  
+  #main {
+    color: white;
+    width: 850px;
+  }
+  
+  .text-white {
+    color: white;
+  }
+  
+  .alert {
+    height: 450px;
+    color: gray;
+  }
+
+  .alert-warning {
+    background: #000000;
+    color: yellow;
+  }
+    div {
+    background: blue;
+  }
+  
+  
